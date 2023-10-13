@@ -1,7 +1,28 @@
-# churn-prediction
-This repo will contain a full churn-prediction example with dataset preparation and step by step creating ml pipeline to preprocess data and train model.
+# Churn Prediction
+
+## Overview
+This repo contains a full churn-prediction example, including dataset preparation and an ML pipeline for data preprocessing and model training.
+
+## File Structure
+- `Data Preparation Notebook`: Generates features from raw data based on monthly user activities from April-June and labels using July activities.
+- `Churn Prediction Notebook`: Implements a pipeline that trains a model to predict churn.
+
+## Requirements
+To run this project, you will need the following packages:
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 
-# File Structure:
-1. Data Prepration Notebook: Using raw data from system. We drive features using monthly (April-June) cohort user activities and then labels using acitvity of user in july.
-2. Churn Prediction Notebook : Using the prepared data, we implement a full pipeline that trains a modelt to predict churn.
+## How To Run
+_TODO: Add installation instructions_
+
+## Usage
+_TODO: Add usage examples_
+
+## To Be Added
+- Additional details and instructions will be added later.
