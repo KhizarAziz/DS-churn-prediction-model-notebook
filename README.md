@@ -19,7 +19,8 @@ To run this project, you will need the following packages:
 
 
 ## How To Run
-_TODO: Add installation instructions_
+- Run all cells in `Data Preparation Notebook`. This prepare a download raw dataset and prepare features and labels for churn prediction model training.
+- Run all cells `Churn Prediction Notebook`, This will feature engineer, preprocess and train a random forest. Finally evalutate model on F1_Score, AUC/ROC and plot.
 
 ## Usage
 _TODO: Add usage examples_
